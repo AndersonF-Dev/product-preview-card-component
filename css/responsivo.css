@@ -1,0 +1,28 @@
+@media (max-width: 620px){
+    .card-content{
+        grid-template-columns: 1fr;
+        grid-template-rows: repeat(1, 1fr);
+    }
+    .card-content .img-product {
+        background: url('../images/image-product-mobile.jpg') center center no-repeat;
+        background-size: cover;
+        width: 345px;
+        height: 241px;
+        border-bottom-left-radius: 0px;
+        border-top-left-radius: 20px;
+        border-top-right-radius: 20px;
+    }
+    .card-content .card-information {
+        width: 345px;
+        height: 392px;
+        border-top-right-radius: 0px;
+        border-bottom-left-radius: 20px;
+        border-bottom-right-radius: 20px;
+    }
+
+    .card-content .card-information .information-paragraph{
+        margin-top: 15px;
+    }
+
+    
+}
