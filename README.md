@@ -6,10 +6,10 @@ Esta é uma solução para o [Resumo dos resultados do desafio do componente no 
 
 ### Screenshot
 Desktop-preview
-[<img src="desktop-preview.gif" alt="gif da tela inicial do projeto Product preview card component">]
+[<img src="Desktop-preview.gif" alt="gif da tela inicial do projeto Product preview card component">]
 
 Mobile-preview
-[<img src="mobile-preview.gif" alt="gif da tela inicial do projeto Product preview card component">]
+[<img src="Mobile-preview.gif" alt="gif da tela inicial do projeto Product preview card component">]
 
 
 ### Link
