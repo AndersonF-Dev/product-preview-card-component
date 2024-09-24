@@ -6,16 +6,16 @@ Esta é uma solução para o [Resumo dos resultados do desafio do componente no 
 
 ### Screenshot
 Desktop-preview
-[<img src="desktop-preview.gif" alt="gif da tela inicial do projeto Results summary component solution">]
+[<img src="desktop-preview.gif" alt="gif da tela inicial do projeto Product preview card component">]
 
 Mobile-preview
-[<img src="mobile-preview.gif" alt="gif da tela inicial do projeto Results summary component solution">]
+[<img src="mobile-preview.gif" alt="gif da tela inicial do projeto Product preview card component">]
 
 
 ### Link
 
 
-- URL do site ativo: [link aqui](https://andersonf-dev.github.io/results-summary-component/)
+- URL do site ativo: [link aqui](https://andersonf-dev.github.io/product-preview-card-component/)
 
 
 
